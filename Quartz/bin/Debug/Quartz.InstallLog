@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.InstallLog
+   assemblypath = C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe
+Installing service QuartzTest...
+Service QuartzTest has been successfully installed.
+Creating EventLog source QuartzTest in log Application...
+Committing assembly 'C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.InstallLog
+   assemblypath = C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe

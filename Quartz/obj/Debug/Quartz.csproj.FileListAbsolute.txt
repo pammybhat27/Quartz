@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe.config
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.pdb
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.dll
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.dll
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.pdb
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.xml
+C:\Users\User\source\repos\Quartz\Quartz\bin\Debug\Quartz.xml
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CopyComplete
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.exe
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.pdb
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.ProjectInstaller.resources
+C:\Users\User\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.GenerateResource.cache
